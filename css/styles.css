@@ -1,0 +1,68 @@
+body {
+    text-align: center;
+    background-image: url("https://images.unsplash.com/photo-1541280910158-c4e14f9c94a3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80");
+  background-size: cover;
+  background-repeat: no-repeat;
+  }
+  
+  a {
+    color: yellow;
+  }
+  
+
+  .container {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+    background-color: black;
+    border-radius: 5px;
+    box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.2);
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ color: azure; }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: auto;
+    margin-bottom: 20px;
+  }
+  
+  iframe {
+    display: block;
+    margin: auto;
+    margin-bottom: 20px;
+  }
+  
+  .tableau-graph-container {
+    background-color: transparent;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.2);
+  }
+  
+
+  ul {
+    list-style-position: inside;
+    text-align: center; color: azure;
+  }
+  
+  ol {
+    list-style-position: inside;
+    text-align: center; color: azure;
+  }
+  
+  #footer {
+    color: white;
+  }
+  
+  
+  #tableauViz {
+    display: block;
+    margin: auto;
+    margin-bottom: 20px;
+  }
+  
